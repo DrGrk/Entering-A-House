@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		76F960A41E79F5D100C584BD /* CoatRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960A31E79F5D100C584BD /* CoatRoomViewController.m */; };
+		76F960A71E79F9FC00C584BD /* LibraryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960A61E79F9FC00C584BD /* LibraryViewController.m */; };
+		76F960AA1E79FA0600C584BD /* DiningRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960A91E79FA0600C584BD /* DiningRoomViewController.m */; };
+		76F960AD1E79FA1200C584BD /* StairsUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960AC1E79FA1200C584BD /* StairsUpViewController.m */; };
+		76F960B01E79FA4200C584BD /* LivingRoomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960AF1E79FA4200C584BD /* LivingRoomViewController.m */; };
+		76F960B31E79FA5C00C584BD /* SecretPassageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960B21E79FA5C00C584BD /* SecretPassageViewController.m */; };
+		76F960B61E79FA6800C584BD /* BedroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960B51E79FA6800C584BD /* BedroomViewController.m */; };
+		76F960B91E79FA7500C584BD /* BathroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960B81E79FA7500C584BD /* BathroomViewController.m */; };
+		76F960BC1E79FA8300C584BD /* BackPorchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960BB1E79FA8300C584BD /* BackPorchViewController.m */; };
+		76F960BF1E79FA9E00C584BD /* LakeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960BE1E79FA9E00C584BD /* LakeViewController.m */; };
+		76F960C21E79FAA700C584BD /* GeneratorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960C11E79FAA700C584BD /* GeneratorViewController.m */; };
+		76F960C51E79FAB300C584BD /* DungeonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960C41E79FAB300C584BD /* DungeonViewController.m */; };
+		76F960CB1E79FB5500C584BD /* LabratoryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960CA1E79FB5500C584BD /* LabratoryViewController.m */; };
+		76F960CE1E79FB9E00C584BD /* WeirdThingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76F960CD1E79FB9E00C584BD /* WeirdThingViewController.m */; };
 		76FA3EFC1E79D94400CE256B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 76FA3EFB1E79D94400CE256B /* main.m */; };
 		76FA3EFF1E79D94400CE256B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 76FA3EFE1E79D94400CE256B /* AppDelegate.m */; };
 		76FA3F021E79D94400CE256B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 76FA3F011E79D94400CE256B /* ViewController.m */; };
@@ -16,6 +30,34 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		76F960A21E79F5D100C584BD /* CoatRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoatRoomViewController.h; sourceTree = "<group>"; };
+		76F960A31E79F5D100C584BD /* CoatRoomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoatRoomViewController.m; sourceTree = "<group>"; };
+		76F960A51E79F9FC00C584BD /* LibraryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LibraryViewController.h; sourceTree = "<group>"; };
+		76F960A61E79F9FC00C584BD /* LibraryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LibraryViewController.m; sourceTree = "<group>"; };
+		76F960A81E79FA0600C584BD /* DiningRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiningRoomViewController.h; sourceTree = "<group>"; };
+		76F960A91E79FA0600C584BD /* DiningRoomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiningRoomViewController.m; sourceTree = "<group>"; };
+		76F960AB1E79FA1200C584BD /* StairsUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StairsUpViewController.h; sourceTree = "<group>"; };
+		76F960AC1E79FA1200C584BD /* StairsUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StairsUpViewController.m; sourceTree = "<group>"; };
+		76F960AE1E79FA4200C584BD /* LivingRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LivingRoomViewController.h; sourceTree = "<group>"; };
+		76F960AF1E79FA4200C584BD /* LivingRoomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LivingRoomViewController.m; sourceTree = "<group>"; };
+		76F960B11E79FA5C00C584BD /* SecretPassageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecretPassageViewController.h; sourceTree = "<group>"; };
+		76F960B21E79FA5C00C584BD /* SecretPassageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecretPassageViewController.m; sourceTree = "<group>"; };
+		76F960B41E79FA6800C584BD /* BedroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BedroomViewController.h; sourceTree = "<group>"; };
+		76F960B51E79FA6800C584BD /* BedroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BedroomViewController.m; sourceTree = "<group>"; };
+		76F960B71E79FA7500C584BD /* BathroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BathroomViewController.h; sourceTree = "<group>"; };
+		76F960B81E79FA7500C584BD /* BathroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BathroomViewController.m; sourceTree = "<group>"; };
+		76F960BA1E79FA8300C584BD /* BackPorchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackPorchViewController.h; sourceTree = "<group>"; };
+		76F960BB1E79FA8300C584BD /* BackPorchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BackPorchViewController.m; sourceTree = "<group>"; };
+		76F960BD1E79FA9E00C584BD /* LakeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LakeViewController.h; sourceTree = "<group>"; };
+		76F960BE1E79FA9E00C584BD /* LakeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LakeViewController.m; sourceTree = "<group>"; };
+		76F960C01E79FAA700C584BD /* GeneratorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeneratorViewController.h; sourceTree = "<group>"; };
+		76F960C11E79FAA700C584BD /* GeneratorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratorViewController.m; sourceTree = "<group>"; };
+		76F960C31E79FAB300C584BD /* DungeonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DungeonViewController.h; sourceTree = "<group>"; };
+		76F960C41E79FAB300C584BD /* DungeonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DungeonViewController.m; sourceTree = "<group>"; };
+		76F960C91E79FB5500C584BD /* LabratoryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LabratoryViewController.h; sourceTree = "<group>"; };
+		76F960CA1E79FB5500C584BD /* LabratoryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LabratoryViewController.m; sourceTree = "<group>"; };
+		76F960CC1E79FB9E00C584BD /* WeirdThingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeirdThingViewController.h; sourceTree = "<group>"; };
+		76F960CD1E79FB9E00C584BD /* WeirdThingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeirdThingViewController.m; sourceTree = "<group>"; };
 		76FA3EF71E79D94400CE256B /* Entering A House.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Entering A House.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76FA3EFB1E79D94400CE256B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		76FA3EFD1E79D94400CE256B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +109,34 @@
 				76FA3F081E79D94400CE256B /* LaunchScreen.storyboard */,
 				76FA3F0B1E79D94400CE256B /* Info.plist */,
 				76FA3EFA1E79D94400CE256B /* Supporting Files */,
+				76F960A21E79F5D100C584BD /* CoatRoomViewController.h */,
+				76F960A31E79F5D100C584BD /* CoatRoomViewController.m */,
+				76F960A51E79F9FC00C584BD /* LibraryViewController.h */,
+				76F960A61E79F9FC00C584BD /* LibraryViewController.m */,
+				76F960A81E79FA0600C584BD /* DiningRoomViewController.h */,
+				76F960A91E79FA0600C584BD /* DiningRoomViewController.m */,
+				76F960AB1E79FA1200C584BD /* StairsUpViewController.h */,
+				76F960AC1E79FA1200C584BD /* StairsUpViewController.m */,
+				76F960AE1E79FA4200C584BD /* LivingRoomViewController.h */,
+				76F960AF1E79FA4200C584BD /* LivingRoomViewController.m */,
+				76F960B11E79FA5C00C584BD /* SecretPassageViewController.h */,
+				76F960B21E79FA5C00C584BD /* SecretPassageViewController.m */,
+				76F960B41E79FA6800C584BD /* BedroomViewController.h */,
+				76F960B51E79FA6800C584BD /* BedroomViewController.m */,
+				76F960B71E79FA7500C584BD /* BathroomViewController.h */,
+				76F960B81E79FA7500C584BD /* BathroomViewController.m */,
+				76F960BA1E79FA8300C584BD /* BackPorchViewController.h */,
+				76F960BB1E79FA8300C584BD /* BackPorchViewController.m */,
+				76F960BD1E79FA9E00C584BD /* LakeViewController.h */,
+				76F960BE1E79FA9E00C584BD /* LakeViewController.m */,
+				76F960C01E79FAA700C584BD /* GeneratorViewController.h */,
+				76F960C11E79FAA700C584BD /* GeneratorViewController.m */,
+				76F960C31E79FAB300C584BD /* DungeonViewController.h */,
+				76F960C41E79FAB300C584BD /* DungeonViewController.m */,
+				76F960C91E79FB5500C584BD /* LabratoryViewController.h */,
+				76F960CA1E79FB5500C584BD /* LabratoryViewController.m */,
+				76F960CC1E79FB9E00C584BD /* WeirdThingViewController.h */,
+				76F960CD1E79FB9E00C584BD /* WeirdThingViewController.m */,
 			);
 			path = "Entering A House";
 			sourceTree = "<group>";
@@ -150,9 +220,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76F960BC1E79FA8300C584BD /* BackPorchViewController.m in Sources */,
+				76F960B31E79FA5C00C584BD /* SecretPassageViewController.m in Sources */,
+				76F960A71E79F9FC00C584BD /* LibraryViewController.m in Sources */,
 				76FA3F021E79D94400CE256B /* ViewController.m in Sources */,
+				76F960C21E79FAA700C584BD /* GeneratorViewController.m in Sources */,
+				76F960B01E79FA4200C584BD /* LivingRoomViewController.m in Sources */,
+				76F960C51E79FAB300C584BD /* DungeonViewController.m in Sources */,
+				76F960B91E79FA7500C584BD /* BathroomViewController.m in Sources */,
+				76F960CE1E79FB9E00C584BD /* WeirdThingViewController.m in Sources */,
 				76FA3EFF1E79D94400CE256B /* AppDelegate.m in Sources */,
+				76F960AD1E79FA1200C584BD /* StairsUpViewController.m in Sources */,
+				76F960A41E79F5D100C584BD /* CoatRoomViewController.m in Sources */,
+				76F960AA1E79FA0600C584BD /* DiningRoomViewController.m in Sources */,
 				76FA3EFC1E79D94400CE256B /* main.m in Sources */,
+				76F960BF1E79FA9E00C584BD /* LakeViewController.m in Sources */,
+				76F960B61E79FA6800C584BD /* BedroomViewController.m in Sources */,
+				76F960CB1E79FB5500C584BD /* LabratoryViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +391,7 @@
 				76FA3F101E79D94400CE256B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

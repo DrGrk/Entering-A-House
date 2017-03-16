@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ??ViewController.h
 //  Entering A House
 //
 //  Created by David Guichon on 2017-03-15.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface __ViewController : UIViewController
 
 @end
-

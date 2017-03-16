@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DungeonViewController.h
 //  Entering A House
 //
 //  Created by David Guichon on 2017-03-15.
@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController.h"
 
-@interface ViewController : UIViewController
+
+@interface DungeonViewController : ViewController
 
 @end
-
